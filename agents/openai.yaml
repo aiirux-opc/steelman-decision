@@ -1,0 +1,6 @@
+interface:
+  display_name: "Steelman Decision"
+  short_description: "Dual steelman analysis with one-question calibration"
+  default_prompt: "Use $steelman-decision to stress-test this decision, ask one decisive question, then wait for my answer."
+policy:
+  allow_implicit_invocation: true
